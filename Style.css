@@ -348,6 +348,11 @@ header{
         section{padding: 20px 0;}
     }
     
+    .open{
+        text-decoration:underline;
+        color: blue;
+    }
+    
 
 
         
